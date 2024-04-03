@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+/* chuyển đổi px -> rem */
+html {
+  font-size: 62.5%;
+}
+/* khôi phục lại cỡ chữ */
+body {
+  font-size: 1.6rem;
+}
